@@ -1,0 +1,8 @@
+.env
+
+data/rating.csv
+data/movies.csv
+data/datasets_for_db_movie.csv
+notebooks/
+
+/data/ratings.csv
